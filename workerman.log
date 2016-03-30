@@ -35,3 +35,30 @@
 2016-03-30 13:01:22 Workerman[ws_test.php] Stopping ...
 2016-03-30 13:01:22 Workerman[ws_test.php] has been stopped
 2016-03-30 13:17:23 Workerman[ws_test.php] start in DAEMON mode
+2016-03-30 13:40:23 Workerman[text_test.php] start in DEBUG mode
+2016-03-30 13:42:49 Workerman[text_test.php] Stopping ...
+2016-03-30 13:42:49 Workerman[text_test.php] has been stopped
+2016-03-30 13:44:10 Workerman[text_test.php] start in DEBUG mode
+2016-03-30 13:45:34 Workerman[text_test.php] Stopping ...
+2016-03-30 13:45:34 Workerman[text_test.php] has been stopped
+2016-03-30 13:45:57 Workerman[text_test.php] start in DEBUG mode
+2016-03-30 13:46:06 Workerman[text_test.php] Stopping ...
+2016-03-30 13:46:06 Workerman[text_test.php] has been stopped
+2016-03-30 13:48:17 Workerman[text_test.php] start in DEBUG mode
+2016-03-30 13:49:44 Workerman[text_test.php] Stopping ...
+2016-03-30 13:49:44 Workerman[text_test.php] has been stopped
+2016-03-30 13:49:58 Workerman[text_test.php] start in DEBUG mode
+2016-03-30 13:55:15 Workerman[text_test.php] Stopping ...
+2016-03-30 13:55:15 Workerman[text_test.php] has been stopped
+2016-03-30 13:55:25 Workerman[text_test.php] start in DEBUG mode
+2016-03-30 13:57:28 Workerman[text_test.php] Stopping ...
+2016-03-30 13:57:28 Workerman[text_test.php] has been stopped
+2016-03-30 13:58:02 Workerman[text_test.php] start in DEBUG mode
+2016-03-30 23:09:50 Workerman[bin.php] start in DEBUG mode
+2016-03-30 23:11:14 Workerman[bin.php] start in DEBUG mode
+2016-03-30 23:12:39 Workerman[bin.php] Stopping ...
+2016-03-30 23:12:39 Workerman[bin.php] has been stopped
+2016-03-30 23:14:01 Workerman[bin.php] start in DEBUG mode
+2016-03-31 01:03:26 Workerman[text_test.php] start in DEBUG mode
+2016-03-31 01:03:51 Workerman[bin.php] Stopping ...
+2016-03-31 01:03:51 Workerman[bin.php] has been stopped

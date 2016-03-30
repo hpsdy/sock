@@ -26,7 +26,7 @@ function handle_close($connect){
 	}
 
 }
-$worker = new Worker("text://0.0.0.0:2347");
+$worker = new Worker("websocket://0.0.0.0:2347");
 $worker->count = 1;
 $worker->onConnect = 'handle_connect';
 $worker->onMessage = 'handle_mes';

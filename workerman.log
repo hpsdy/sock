@@ -1,0 +1,37 @@
+2016-03-30 03:12:13 Workerman[http_test.php] start in DEBUG mode
+2016-03-30 03:12:24 Workerman[http_test.php] Stopping ...
+2016-03-30 03:12:24 Workerman[http_test.php] has been stopped
+2016-03-30 03:12:28 Workerman[http_test.php] start in DEBUG mode
+2016-03-30 03:19:13 Workerman[http_test.php] stop 
+2016-03-30 03:19:13 Workerman[http_test.php] is stoping ...
+2016-03-30 03:19:13 Workerman[http_test.php] Stopping ...
+2016-03-30 03:19:13 Workerman[http_test.php] has been stopped
+2016-03-30 03:19:13 Workerman[http_test.php] stop success
+2016-03-30 11:15:26 Workerman[http_test.php] start in DEBUG mode
+2016-03-30 11:16:26 Workerman[http_test.php] Stopping ...
+2016-03-30 11:16:26 Workerman[http_test.php] has been stopped
+2016-03-30 11:17:20 Workerman[websocket_test.php] start in DEBUG mode
+2016-03-30 11:18:10 Workerman[websocket_test.php] Stopping ...
+2016-03-30 11:18:10 Workerman[websocket_test.php] has been stopped
+2016-03-30 11:18:27 Workerman[websocket_test.php] start in DEBUG mode
+2016-03-30 11:25:49 Workerman[websocket_test.php] Stopping ...
+2016-03-30 11:25:49 Workerman[websocket_test.php] has been stopped
+2016-03-30 11:27:00 Workerman[ws_test.php] start in DEBUG mode
+2016-03-30 11:27:38 Workerman[ws_test.php] Stopping ...
+2016-03-30 11:27:38 Workerman[ws_test.php] has been stopped
+2016-03-30 11:29:29 Workerman[tcp_test.php] start in DEBUG mode
+2016-03-30 11:34:54 Workerman[ws_test.php] start in DAEMON mode
+2016-03-30 11:44:00 Workerman[ws_test.php] start in DEBUG mode
+2016-03-30 11:44:00 Workerman[ws_test.php] already running
+2016-03-30 11:44:05 Workerman[ws_test.php] reload 
+2016-03-30 11:44:05 Workerman[ws_test.php] reload
+2016-03-30 11:44:05 Workerman[ws_test.php] reloading
+2016-03-30 11:56:13 Workerman[ws_test.php] stop 
+2016-03-30 11:56:13 Workerman[ws_test.php] is stoping ...
+2016-03-30 11:56:13 Workerman[ws_test.php] Stopping ...
+2016-03-30 11:56:13 Workerman[ws_test.php] has been stopped
+2016-03-30 11:56:13 Workerman[ws_test.php] stop success
+2016-03-30 11:56:18 Workerman[ws_test.php] start in DEBUG mode
+2016-03-30 13:01:22 Workerman[ws_test.php] Stopping ...
+2016-03-30 13:01:22 Workerman[ws_test.php] has been stopped
+2016-03-30 13:17:23 Workerman[ws_test.php] start in DAEMON mode

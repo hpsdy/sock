@@ -23,3 +23,4 @@ $http_worker->onMessage = function($connection, $data)
 
 // 运行worker
 Worker::runAll();
+

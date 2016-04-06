@@ -31,4 +31,5 @@ $woker->count = 1;
 $woker->onConnect = 'handle_connect';
 $woker->onMessage = 'handle_mes';
 $woker->onClose = 'handle_close';
+
 Worker::runAll();

@@ -26,10 +26,10 @@ function handle_close($connect){
 	}
 
 }
-$woker = new Worker("text://0.0.0.0:2347");
-$woker->count = 1;
-$woker->onConnect = 'handle_connect';
-$woker->onMessage = 'handle_mes';
-$woker->onClose = 'handle_close';
+$worker = new Worker("text://0.0.0.0:2347");
+$worker->count = 1;
+$worker->onConnect = 'handle_connect';
+$worker->onMessage = 'handle_mes';
+$worker->onClose = 'handle_close';
 
 Worker::runAll();

@@ -14,14 +14,14 @@ function handle_connect($connect){
 }
 function handle_mes($connect,$data){
 	global $worker;
-	foreach ($worker as $con){
+	foreach ($worker->connections as $con){
 		$con->send("user$connect->uid said:$data");
 	}
 
 }
 function handle_close($connect){
 	global $worker;
-	foreach ($worker as $con){
+	foreach ($worker->connections  as $con){
 		$con->send("user$connect->uid said:close");
 	}
 

@@ -28,8 +28,8 @@
       <file leaf-file-name="text_test.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/text_test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="714">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -167,7 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1459405236359</updated>
       <workItem from="1459405238048" duration="7281000" />
-      <workItem from="1459935296412" duration="1324000" />
+      <workItem from="1459935296412" duration="1421000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1459405446142</created>
@@ -225,11 +225,18 @@
       <option name="project" value="LOCAL" />
       <updated>1459936572383</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1">
+      <created>1459936626059</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1459936626059</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8605000" />
+    <option name="totallyTimeSpent" value="8702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -975,8 +982,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/text_test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="714">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>

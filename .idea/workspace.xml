@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a264d675-fa2a-4fea-a93a-80a150304c81" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/text_test.php" afterPath="$PROJECT_DIR$/text_test.php" />
     </list>
     <ignored path="sock.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,41 +24,19 @@
     <favorites_list name="sock" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="http_test.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Workerman-master/http_test.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="text_test.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/text_test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#87#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Timer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Workerman-master/Lib/Timer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="56" column="21" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="24" />
+            <state relative-caret-position="42">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pcntl.php" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/pcntl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="175" column="9" selection-start-line="175" selection-start-column="9" selection-end-line="175" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Autoloader.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Workerman-master/Autoloader.php">
+      <file leaf-file-name="http_test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/http_test.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -75,6 +54,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Workerman-master/http_test.php" />
+        <option value="E:/bcakup/lipeng (2).php" />
+        <option value="$PROJECT_DIR$/text_test.php" />
       </list>
     </option>
   </component>
@@ -115,7 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -134,45 +114,15 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sock" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Workerman-master" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sock" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Workerman-master" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lib" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/bcakup/lipeng (2).php" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -190,6 +140,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -210,7 +166,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1459405236359</updated>
-      <workItem from="1459405238048" duration="3282000" />
+      <workItem from="1459405238048" duration="7281000" />
+      <workItem from="1459935296412" duration="1324000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1459405446142</created>
@@ -233,32 +190,67 @@
       <option name="project" value="LOCAL" />
       <updated>1459425193716</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1459425326089</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1459425326089</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1">
+      <created>1459936121650</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1459936121650</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1">
+      <created>1459936298136</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1459936298136</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1">
+      <created>1459936358101</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1459936358101</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1">
+      <created>1459936572383</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1459936572383</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3282000" />
+    <option name="totallyTimeSpent" value="8605000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04973545" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -275,6 +267,355 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Workerman-master/http_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/bcakup/lipeng (2).php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1459433485122" expanded="true" signature="325:448" placeholder="select prior... users" />
+            <marker date="1459433485122" expanded="true" signature="787:829" placeholder="select * fro... client_menu" />
+            <marker date="1459433485122" expanded="true" signature="1118:1152" placeholder="select * fro... menu_info" />
+            <marker date="1459433485122" expanded="true" signature="1226:1262" placeholder="select * fro... module_info" />
+            <marker date="1459433485122" expanded="true" signature="2070:2195" placeholder="select prior... users" />
+            <marker date="1459433485122" expanded="true" signature="2822:2908" placeholder="insert into login_log... " />
+            <marker date="1459433485122" expanded="true" signature="3965:4027" placeholder="select passw... users" />
+            <marker date="1459433485122" expanded="true" signature="4289:4407" placeholder="select prior... users" />
+            <marker date="1459433485122" expanded="true" signature="4441:4488" placeholder="select prior... users" />
+            <marker date="1459433485122" expanded="true" signature="4952:5021" placeholder="select prior... users" />
+            <marker date="1459433485122" expanded="true" signature="6135:6210" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="6322:6367" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="6628:6652" placeholder="select * fro... department" />
+            <marker date="1459433485122" expanded="true" signature="6815:6857" placeholder="select * fro... client_menu" />
+            <marker date="1459433485122" expanded="true" signature="7181:7215" placeholder="select * fro... menu_info" />
+            <marker date="1459433485122" expanded="true" signature="7287:7323" placeholder="select * fro... module_info" />
+            <marker date="1459433485122" expanded="true" signature="8189:8224" placeholder="update users... " />
+            <marker date="1459433485122" expanded="true" signature="8271:8311" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="8721:8838" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="9092:9154" placeholder="select savet... users" />
+            <marker date="1459433485122" expanded="true" signature="9210:9319" placeholder="select login... login_log" />
+            <marker date="1459433485122" expanded="true" signature="9530:9599" placeholder="update users... " />
+            <marker date="1459433485122" expanded="true" signature="9872:9916" placeholder="update users... " />
+            <marker date="1459433485122" expanded="true" signature="10296:10325" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="10354:10401" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="10533:10575" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="10873:10993" placeholder="update users... " />
+            <marker date="1459433485122" expanded="true" signature="11631:11748" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="12182:12228" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="12332:12501" placeholder="insert into users... " />
+            <marker date="1459433485122" expanded="true" signature="12828:12945" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="13436:13529" placeholder="update users... " />
+            <marker date="1459433485122" expanded="true" signature="14819:14861" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="14979:15006" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="15312:15429" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="15691:15741" placeholder="select * fro... department" />
+            <marker date="1459433485122" expanded="true" signature="15833:15917" placeholder="insert into department... " />
+            <marker date="1459433485122" expanded="true" signature="16316:16389" placeholder="update depar... " />
+            <marker date="1459433485122" expanded="true" signature="16666:16700" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="17048:17101" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="17766:17827" placeholder="select id fr... menu_list" />
+            <marker date="1459433485122" expanded="true" signature="18052:18088" placeholder="select usern... users" />
+            <marker date="1459433485122" expanded="true" signature="18169:18243" placeholder="select appbo... menu_order" />
+            <marker date="1459433485122" expanded="true" signature="19573:19686" placeholder="update menu_... " />
+            <marker date="1459433485122" expanded="true" signature="19760:19814" placeholder="select name,... users" />
+            <marker date="1459433485122" expanded="true" signature="19989:20037" placeholder="update set p... " />
+            <marker date="1459433485122" expanded="true" signature="20365:20486" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="20714:20835" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="22042:22125" placeholder="insert into cartype... " />
+            <marker date="1459433485122" expanded="true" signature="22469:22586" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="22839:22899" placeholder="select car_t... cartype" />
+            <marker date="1459433485122" expanded="true" signature="24621:24748" placeholder="update carty... " />
+            <marker date="1459433485122" expanded="true" signature="25079:25196" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="25269:25306" placeholder="select * fro... cartypes" />
+            <marker date="1459433485122" expanded="true" signature="25835:25895" placeholder="select car_t... cartype" />
+            <marker date="1459433485122" expanded="true" signature="26588:26622" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="26853:26970" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="27313:27380" placeholder="insert into carmodel... " />
+            <marker date="1459433485122" expanded="true" signature="27584:27701" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="28065:28112" placeholder="select * fro... carmodel" />
+            <marker date="1459433485122" expanded="true" signature="28261:28358" placeholder="update carmo... " />
+            <marker date="1459433485122" expanded="true" signature="28629:28746" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="28987:29034" placeholder="select * fro... carmodel" />
+            <marker date="1459433485122" expanded="true" signature="29171:29206" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="29416:29533" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="30120:30184" placeholder="select * fro... car_maintanence_main" />
+            <marker date="1459433485122" expanded="true" signature="30282:30323" placeholder="select count... car_maintanence_main" />
+            <marker date="1459433485122" expanded="true" signature="30519:30545" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="30614:30636" placeholder="select name staff" />
+            <marker date="1459433485122" expanded="true" signature="30712:30764" placeholder="select disti... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="31874:31937" placeholder="select * fro... car_maintanence_main" />
+            <marker date="1459433485122" expanded="true" signature="32013:32180" placeholder="insert into car_maintanence_main... " />
+            <marker date="1459433485122" expanded="true" signature="32198:32254" placeholder="update cars " />
+            <marker date="1459433485122" expanded="true" signature="32849:33069" placeholder="update car_m... " />
+            <marker date="1459433485122" expanded="true" signature="33115:33171" placeholder="update cars " />
+            <marker date="1459433485122" expanded="true" signature="33264:33308" placeholder="select * fro... car_maintanence_main" />
+            <marker date="1459433485122" expanded="true" signature="34173:34215" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="34629:34664" placeholder="select name material_storeinfo" />
+            <marker date="1459433485122" expanded="true" signature="35776:35934" placeholder="select * fro... material_detail" />
+            <marker date="1459433485122" expanded="true" signature="35980:36093" placeholder="select count... material_detail" />
+            <marker date="1459433485122" expanded="true" signature="37184:37235" placeholder="select * fro... workday" />
+            <marker date="1459433485122" expanded="true" signature="37318:37346" placeholder="select count... workday" />
+            <marker date="1459433485122" expanded="true" signature="43509:43786" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="43561:43701" placeholder="select vehic... control_list" />
+            <marker date="1459433485122" expanded="true" signature="43629:43700" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="43718:43774" placeholder="select car_i... car_realtime_status" />
+            <marker date="1459433485122" expanded="true" signature="45342:45696" placeholder="select *, ex... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="46636:47052" placeholder="select *, ex... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="47151:47417" placeholder="select count... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="48468:48794" placeholder="select *, ex... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="50008:50053" placeholder="update cars " />
+            <marker date="1459433485122" expanded="true" signature="52138:52204" placeholder="select * fro... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="52402:52519" placeholder="select count... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="52597:52785" placeholder="select name,... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="53145:53211" placeholder="select * fro... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="53343:53531" placeholder="select name,... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="54279:54315" placeholder="select disti... staff" />
+            <marker date="1459433485122" expanded="true" signature="55316:55496" placeholder="select name,... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="57529:57836" placeholder="select name,... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="59722:59791" placeholder="select id fr... staff" />
+            <marker date="1459433485122" expanded="true" signature="59760:59790" placeholder="select staff... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="59808:59836" placeholder="insert into staff_kpi... " />
+            <marker date="1459433485122" expanded="true" signature="60073:60126" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="60165:60255" placeholder="select * fro... iccard_carid" />
+            <marker date="1459433485122" expanded="true" signature="60499:60609" placeholder="select * fro... iccard_carid" />
+            <marker date="1459433485122" expanded="true" signature="60869:61013" placeholder="select * fro... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="61344:61491" placeholder="select * fro... car_history_status" />
+            <marker date="1459433485122" expanded="true" signature="62069:62155" placeholder="select oil_u... oil_statistic" />
+            <marker date="1459433485122" expanded="true" signature="62329:62447" placeholder="insert into staff_kpi... " />
+            <marker date="1459433485122" expanded="true" signature="62701:62757" placeholder="select car_i... car_realtime_status" />
+            <marker date="1459433485122" expanded="true" signature="62874:62952" placeholder="insert into car_kpi_detail... " />
+            <marker date="1459433485122" expanded="true" signature="63148:63206" placeholder="select count... car_history_status" />
+            <marker date="1459433485122" expanded="true" signature="63284:63333" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="63418:63484" placeholder="update car_r... " />
+            <marker date="1459433485122" expanded="true" signature="63734:63790" placeholder="select car_i... car_realtime_status" />
+            <marker date="1459433485122" expanded="true" signature="63915:64013" placeholder="select staff... iccard_carid" />
+            <marker date="1459433485122" expanded="true" signature="64133:64215" placeholder="insert into staff_kpi_detail... " />
+            <marker date="1459433485122" expanded="true" signature="64399:64446" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="64514:64546" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="64712:64814" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="64856:64964" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="65129:65231" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="65273:65381" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="65595:65665" placeholder="insert into car_kpi... " />
+            <marker date="1459433485122" expanded="true" signature="65854:65903" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="65973:65993" placeholder="select id fr... staff" />
+            <marker date="1459433485122" expanded="true" signature="66095:66210" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="66348:66463" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="66677:66751" placeholder="insert into staff_kpi... " />
+            <marker date="1459433485122" expanded="true" signature="67059:67131" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="67104:67130" placeholder="select car_i... car_kpi" />
+            <marker date="1459433485122" expanded="true" signature="67148:67174" placeholder="insert into car_kpi... " />
+            <marker date="1459433485122" expanded="true" signature="67402:67453" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="67559:67661" placeholder="select * fro... car_history_status" />
+            <marker date="1459433485122" expanded="true" signature="67864:67990" placeholder="select * fro... car_history_status" />
+            <marker date="1459433485122" expanded="true" signature="68717:68803" placeholder="select oil_u... oil_statistic" />
+            <marker date="1459433485122" expanded="true" signature="69007:69097" placeholder="insert into car_kpi... " />
+            <marker date="1459433485122" expanded="true" signature="69603:69861" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="71894:72152" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="77904:78272" placeholder="select *,cou... " />
+            <marker date="1459433485122" expanded="true" signature="78378:78574" placeholder="select *,lef... " />
+            <marker date="1459433485122" expanded="true" signature="78642:78948" placeholder="select *,cou... etc_info" />
+            <marker date="1459433485122" expanded="true" signature="79054:79188" placeholder="select * fro... etc_info" />
+            <marker date="1459433485122" expanded="true" signature="80331:80646" placeholder="select heap_... etc_info" />
+            <marker date="1459433485122" expanded="true" signature="82048:82363" placeholder="select heap_... etc_info" />
+            <marker date="1459433485122" expanded="true" signature="84602:84734" placeholder="select * fro... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="84938:85096" placeholder="select count... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="85366:85404" placeholder="select disti... cartype" />
+            <marker date="1459433485122" expanded="true" signature="86147:86195" placeholder="select * fro... process_exploration" />
+            <marker date="1459433485122" expanded="true" signature="86244:86291" placeholder="select count... process_exploration" />
+            <marker date="1459433485122" expanded="true" signature="87041:87276" placeholder="update proce... " />
+            <marker date="1459433485122" expanded="true" signature="87507:87548" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="87771:87835" placeholder="select * fro... process_exploration" />
+            <marker date="1459433485122" expanded="true" signature="88192:88355" placeholder="insert into process_exploration... " />
+            <marker date="1459433485122" expanded="true" signature="88828:88873" placeholder="select * fro... process_property" />
+            <marker date="1459433485122" expanded="true" signature="88922:88966" placeholder="select count... process_property" />
+            <marker date="1459433485122" expanded="true" signature="89835:89905" placeholder="update proce... " />
+            <marker date="1459433485122" expanded="true" signature="90352:90502" placeholder="insert into process_property... " />
+            <marker date="1459433485122" expanded="true" signature="90971:91156" placeholder="update proce... " />
+            <marker date="1459433485122" expanded="true" signature="91267:91316" placeholder="select * fro... process_property" />
+            <marker date="1459433485122" expanded="true" signature="91539:91591" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="92076:92125" placeholder="select * fro... process_mine_control" />
+            <marker date="1459433485122" expanded="true" signature="92175:92223" placeholder="select count... process_mine_control" />
+            <marker date="1459433485122" expanded="true" signature="92928:93049" placeholder="insert into process_mine_control... " />
+            <marker date="1459433485122" expanded="true" signature="93250:93292" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="93659:93799" placeholder="update proce... " />
+            <marker date="1459433485122" expanded="true" signature="94286:94335" placeholder="select * fro... process_mine_explode" />
+            <marker date="1459433485122" expanded="true" signature="94385:94433" placeholder="select count... process_mine_explode" />
+            <marker date="1459433485122" expanded="true" signature="95228:95391" placeholder="insert into process_mine_explode... " />
+            <marker date="1459433485122" expanded="true" signature="95905:96127" placeholder="update proce... " />
+            <marker date="1459433485122" expanded="true" signature="96330:96374" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="96983:97124" placeholder="insert into workday... " />
+            <marker date="1459433485122" expanded="true" signature="97644:97861" placeholder="update workd... " />
+            <marker date="1459433485122" expanded="true" signature="98034:98068" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="98517:98559" placeholder="select * fro... material_info" />
+            <marker date="1459433485122" expanded="true" signature="98605:98646" placeholder="select count... material_info" />
+            <marker date="1459433485122" expanded="true" signature="99119:99182" placeholder="insert into material_info... " />
+            <marker date="1459433485122" expanded="true" signature="99457:99532" placeholder="update mater... " />
+            <marker date="1459433485122" expanded="true" signature="99736:99862" placeholder="select * fro... material_info" />
+            <marker date="1459433485122" expanded="true" signature="99910:99950" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="100454:100501" placeholder="select * fro... material_storeinfo" />
+            <marker date="1459433485122" expanded="true" signature="100547:100593" placeholder="select count... material_storeinfo" />
+            <marker date="1459433485122" expanded="true" signature="101071:101139" placeholder="insert into material_storeinfo... " />
+            <marker date="1459433485122" expanded="true" signature="101449:101517" placeholder="update mater... " />
+            <marker date="1459433485122" expanded="true" signature="101720:101765" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="101993:102028" placeholder="select name material_storeinfo" />
+            <marker date="1459433485122" expanded="true" signature="103339:103497" placeholder="select * fro... material_detail" />
+            <marker date="1459433485122" expanded="true" signature="103543:103656" placeholder="select count... material_detail" />
+            <marker date="1459433485122" expanded="true" signature="104164:104196" placeholder="select * fro... material_storeinfo" />
+            <marker date="1459433485122" expanded="true" signature="104481:104518" placeholder="select disti... staff" />
+            <marker date="1459433485122" expanded="true" signature="105743:105846" placeholder="select * fro... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="105890:105958" placeholder="select count... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="106027:106115" placeholder="select * fro... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="106160:106316" placeholder="select *,sum... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="106360:106481" placeholder="select count... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="106536:106677" placeholder="select *,sum... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="108053:108101" placeholder="select * fro... material_info" />
+            <marker date="1459433485122" expanded="true" signature="108496:108561" placeholder="select level... material_storeinfo" />
+            <marker date="1459433485122" expanded="true" signature="108619:108763" placeholder="select * fro... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="108798:108940" placeholder="insert into material_storage... " />
+            <marker date="1459433485122" expanded="true" signature="108969:109155" placeholder="update mater... " />
+            <marker date="1459433485122" expanded="true" signature="109454:109665" placeholder="insert into material_detail... " />
+            <marker date="1459433485122" expanded="true" signature="110035:110083" placeholder="select * fro... material_info" />
+            <marker date="1459433485122" expanded="true" signature="110783:110892" placeholder="select * fro... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="111066:111218" placeholder="select * fro... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="111298:111381" placeholder="update mater... " />
+            <marker date="1459433485122" expanded="true" signature="111404:111640" placeholder="insert into material_detail... " />
+            <marker date="1459433485122" expanded="true" signature="111755:111910" placeholder="insert into material_storage... " />
+            <marker date="1459433485122" expanded="true" signature="111943:112141" placeholder="update mater... " />
+            <marker date="1459433485122" expanded="true" signature="112189:112229" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="112415:112659" placeholder="insert into material_detail... " />
+            <marker date="1459433485122" expanded="true" signature="112777:112936" placeholder="insert into material_storage... " />
+            <marker date="1459433485122" expanded="true" signature="112969:113163" placeholder="update mater... " />
+            <marker date="1459433485122" expanded="true" signature="113339:113391" placeholder="select * fro... material_info" />
+            <marker date="1459433485122" expanded="true" signature="113864:114101" placeholder="select mater... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="114270:114393" placeholder="select sum(m... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="114776:114825" placeholder="select * fro... alarm_rule" />
+            <marker date="1459433485122" expanded="true" signature="115633:115855" placeholder="select latit... etc_info" />
+            <marker date="1459433485122" expanded="true" signature="116053:116335" placeholder="select heap_... etc_realtime_status" />
+            <marker date="1459433485122" expanded="true" signature="117472:117532" placeholder="update staff... " />
+            <marker date="1459433485122" expanded="true" signature="120553:120642" placeholder="select * fro... work_salary" />
+            <marker date="1459433485122" expanded="true" signature="121003:121061" placeholder="select heap_... heap_info" />
+            <marker date="1459433485122" expanded="true" signature="121113:121403" placeholder="update orelo... " />
+            <marker date="1459433485122" expanded="true" signature="121702:121793" placeholder="update orelo... " />
+            <marker date="1459433485122" expanded="true" signature="122151:122313" placeholder="select disti... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="122551:122647" placeholder="select * fro... car_history_status" />
+            <marker date="1459433485122" expanded="true" signature="123436:123598" placeholder="select disti... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="123836:123932" placeholder="select * fro... car_history_status" />
+            <marker date="1459433485122" expanded="true" signature="130436:130495" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="130980:131039" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="131353:131448" placeholder="select count... oreload" />
+            <marker date="1459433485122" expanded="true" signature="131687:131745" placeholder="select heap_... heap_info" />
+            <marker date="1459433485122" expanded="true" signature="131853:131871" placeholder="update orelo... " />
+            <marker date="1459433485122" expanded="true" signature="132076:132137" placeholder="select heap_... heap_info" />
+            <marker date="1459433485122" expanded="true" signature="133562:133654" placeholder="insert into edit_error_log... " />
+            <marker date="1459433485122" expanded="true" signature="134035:134095" placeholder="select op_co... edit_error_log" />
+            <marker date="1459433485122" expanded="true" signature="134984:135054" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="135085:135155" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="135186:135256" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="135927:135997" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="136028:136098" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="136129:136199" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="136868:136938" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="136969:137039" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="137070:137140" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="137810:137880" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="137911:137981" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="138012:138082" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="138751:138821" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="138852:138922" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="138953:139023" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="139692:139762" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="139793:139863" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="139894:139964" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="140668:140920" placeholder="select count... agenda_event" />
+            <marker date="1459433485122" expanded="true" signature="140961:141233" placeholder="select count... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="141290:141433" placeholder="select count... repair_info" />
+            <marker date="1459433485122" expanded="true" signature="142907:142986" placeholder="select apply... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="143181:143241" placeholder="select apply... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="143362:143463" placeholder="select count... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="143646:143781" placeholder="select name,... staff" />
+            <marker date="1459433485122" expanded="true" signature="143866:143913" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="144003:144025" placeholder="select name staff" />
+            <marker date="1459433485122" expanded="true" signature="144121:144176" placeholder="select work_... machine_work" />
+            <marker date="1459433485122" expanded="true" signature="144271:144326" placeholder="select work_... machine_work" />
+            <marker date="1459433485122" expanded="true" signature="144846:144894" placeholder="select id fr... cars" />
+            <marker date="1459433485122" expanded="true" signature="144963:145009" placeholder="select work_... machine_status" />
+            <marker date="1459433485122" expanded="true" signature="145585:145658" placeholder="select id fr... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="146477:146682" placeholder="insert into machine_use_apply... " />
+            <marker date="1459433485122" expanded="true" signature="146985:147034" placeholder="select * fro... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="147157:147250" placeholder="select * fro... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="148048:148109" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="148302:148461" placeholder="select waji_... oreload" />
+            <marker date="1459433485122" expanded="true" signature="148558:148613" placeholder="select excav... control_list" />
+            <marker date="1459433485122" expanded="true" signature="148747:148796" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="148905:149070" placeholder="select waji_... oreload" />
+            <marker date="1459433485122" expanded="true" signature="149182:149220" placeholder="select name,... staff" />
+            <marker date="1459433485122" expanded="true" signature="149271:149360" placeholder="select work_... oreload" />
+            <marker date="1459433485122" expanded="true" signature="149764:149830" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="150084:150180" placeholder="select id fr... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="150240:150339" placeholder="select car_i... agenda_event" />
+            <marker date="1459433485122" expanded="true" signature="150441:150493" placeholder="update cars " />
+            <marker date="1459433485122" expanded="true" signature="150521:150573" placeholder="update cars " />
+            <marker date="1459433485122" expanded="true" signature="150655:150745" placeholder="select * fro... agenda_event" />
+            <marker date="1459433485122" expanded="true" signature="151056:151207" placeholder="insert into exception_status... " />
+            <marker date="1459433485122" expanded="true" signature="151601:151653" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="151720:151778" placeholder="select work_... control_list" />
+            <marker date="1459433485122" expanded="true" signature="151883:152035" placeholder="update contr... " />
+            <marker date="1459433485122" expanded="true" signature="152191:152246" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="152896:152983" placeholder="select vehic... control_list" />
+            <marker date="1459433485122" expanded="true" signature="153012:153157" placeholder="select excav... oreload" />
+            <marker date="1459433485122" expanded="true" signature="153187:153230" placeholder="select statu... car_status" />
+            <marker date="1459433485122" expanded="true" signature="154090:154215" placeholder="select heap_... oreload" />
+            <marker date="1459433485122" expanded="true" signature="154249:154292" placeholder="select statu... car_status" />
+            <marker date="1459433485122" expanded="true" signature="154506:154608" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="154648:154783" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="155968:156008" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="158403:158433" placeholder="select id, p... users" />
+            <marker date="1459433485122" expanded="true" signature="158567:158627" placeholder="update users... " />
+            <marker date="1459433485122" expanded="true" signature="158999:159038" placeholder="select count... " />
+            <marker date="1459433485122" expanded="true" signature="159277:159328" placeholder="select * fro... heap_info" />
+            <marker date="1459433485122" expanded="true" signature="159853:159891" placeholder="select * fro... heap_info" />
+            <marker date="1459433485122" expanded="true" signature="160154:160254" placeholder="update heap_... " />
+            <marker date="1459433485122" expanded="true" signature="160580:160834" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="161220:161261" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="161365:161466" placeholder="select sum(w... car_kpi_detail" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Workerman-master/Lib/Timer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/pcntl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="175" column="9" selection-start-line="175" selection-start-column="9" selection-end-line="175" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Workerman-master/Autoloader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Workerman-master/Autoloader.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -285,7 +626,7 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/pcntl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="3675">
           <caret line="175" column="9" selection-start-line="175" selection-start-column="9" selection-end-line="175" selection-end-column="9" />
           <folding />
         </state>
@@ -293,7 +634,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Workerman-master/Lib/Timer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="924">
           <caret line="56" column="21" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="24" />
           <folding />
         </state>
@@ -306,6 +647,337 @@
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/bcakup/lipeng (2).php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="647" column="28" selection-start-line="647" selection-start-column="28" selection-end-line="647" selection-end-column="28" />
+          <folding>
+            <marker date="1459433485122" expanded="true" signature="325:448" placeholder="select prior... users" />
+            <marker date="1459433485122" expanded="true" signature="787:829" placeholder="select * fro... client_menu" />
+            <marker date="1459433485122" expanded="true" signature="1118:1152" placeholder="select * fro... menu_info" />
+            <marker date="1459433485122" expanded="true" signature="1226:1262" placeholder="select * fro... module_info" />
+            <marker date="1459433485122" expanded="true" signature="2070:2195" placeholder="select prior... users" />
+            <marker date="1459433485122" expanded="true" signature="2822:2908" placeholder="insert into login_log... " />
+            <marker date="1459433485122" expanded="true" signature="3965:4027" placeholder="select passw... users" />
+            <marker date="1459433485122" expanded="true" signature="4289:4407" placeholder="select prior... users" />
+            <marker date="1459433485122" expanded="true" signature="4441:4488" placeholder="select prior... users" />
+            <marker date="1459433485122" expanded="true" signature="4952:5021" placeholder="select prior... users" />
+            <marker date="1459433485122" expanded="true" signature="6135:6210" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="6322:6367" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="6628:6652" placeholder="select * fro... department" />
+            <marker date="1459433485122" expanded="true" signature="6815:6857" placeholder="select * fro... client_menu" />
+            <marker date="1459433485122" expanded="true" signature="7181:7215" placeholder="select * fro... menu_info" />
+            <marker date="1459433485122" expanded="true" signature="7287:7323" placeholder="select * fro... module_info" />
+            <marker date="1459433485122" expanded="true" signature="8189:8224" placeholder="update users... " />
+            <marker date="1459433485122" expanded="true" signature="8271:8311" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="8721:8838" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="9092:9154" placeholder="select savet... users" />
+            <marker date="1459433485122" expanded="true" signature="9210:9319" placeholder="select login... login_log" />
+            <marker date="1459433485122" expanded="true" signature="9530:9599" placeholder="update users... " />
+            <marker date="1459433485122" expanded="true" signature="9872:9916" placeholder="update users... " />
+            <marker date="1459433485122" expanded="true" signature="10296:10325" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="10354:10401" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="10533:10575" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="10873:10993" placeholder="update users... " />
+            <marker date="1459433485122" expanded="true" signature="11631:11748" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="12182:12228" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="12332:12501" placeholder="insert into users... " />
+            <marker date="1459433485122" expanded="true" signature="12828:12945" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="13436:13529" placeholder="update users... " />
+            <marker date="1459433485122" expanded="true" signature="14819:14861" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="14979:15006" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="15312:15429" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="15691:15741" placeholder="select * fro... department" />
+            <marker date="1459433485122" expanded="true" signature="15833:15917" placeholder="insert into department... " />
+            <marker date="1459433485122" expanded="true" signature="16316:16389" placeholder="update depar... " />
+            <marker date="1459433485122" expanded="true" signature="16666:16700" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="17048:17101" placeholder="select * fro... users" />
+            <marker date="1459433485122" expanded="true" signature="17766:17827" placeholder="select id fr... menu_list" />
+            <marker date="1459433485122" expanded="true" signature="18052:18088" placeholder="select usern... users" />
+            <marker date="1459433485122" expanded="true" signature="18169:18243" placeholder="select appbo... menu_order" />
+            <marker date="1459433485122" expanded="true" signature="19573:19686" placeholder="update menu_... " />
+            <marker date="1459433485122" expanded="true" signature="19760:19814" placeholder="select name,... users" />
+            <marker date="1459433485122" expanded="true" signature="19989:20037" placeholder="update set p... " />
+            <marker date="1459433485122" expanded="true" signature="20365:20486" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="20714:20835" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="22042:22125" placeholder="insert into cartype... " />
+            <marker date="1459433485122" expanded="true" signature="22469:22586" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="22839:22899" placeholder="select car_t... cartype" />
+            <marker date="1459433485122" expanded="true" signature="24621:24748" placeholder="update carty... " />
+            <marker date="1459433485122" expanded="true" signature="25079:25196" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="25269:25306" placeholder="select * fro... cartypes" />
+            <marker date="1459433485122" expanded="true" signature="25835:25895" placeholder="select car_t... cartype" />
+            <marker date="1459433485122" expanded="true" signature="26588:26622" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="26853:26970" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="27313:27380" placeholder="insert into carmodel... " />
+            <marker date="1459433485122" expanded="true" signature="27584:27701" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="28065:28112" placeholder="select * fro... carmodel" />
+            <marker date="1459433485122" expanded="true" signature="28261:28358" placeholder="update carmo... " />
+            <marker date="1459433485122" expanded="true" signature="28629:28746" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="28987:29034" placeholder="select * fro... carmodel" />
+            <marker date="1459433485122" expanded="true" signature="29171:29206" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="29416:29533" placeholder="insert into control_log_new... " />
+            <marker date="1459433485122" expanded="true" signature="30120:30184" placeholder="select * fro... car_maintanence_main" />
+            <marker date="1459433485122" expanded="true" signature="30282:30323" placeholder="select count... car_maintanence_main" />
+            <marker date="1459433485122" expanded="true" signature="30519:30545" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="30614:30636" placeholder="select name staff" />
+            <marker date="1459433485122" expanded="true" signature="30712:30764" placeholder="select disti... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="31874:31937" placeholder="select * fro... car_maintanence_main" />
+            <marker date="1459433485122" expanded="true" signature="32013:32180" placeholder="insert into car_maintanence_main... " />
+            <marker date="1459433485122" expanded="true" signature="32198:32254" placeholder="update cars " />
+            <marker date="1459433485122" expanded="true" signature="32849:33069" placeholder="update car_m... " />
+            <marker date="1459433485122" expanded="true" signature="33115:33171" placeholder="update cars " />
+            <marker date="1459433485122" expanded="true" signature="33264:33308" placeholder="select * fro... car_maintanence_main" />
+            <marker date="1459433485122" expanded="true" signature="34173:34215" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="34629:34664" placeholder="select name material_storeinfo" />
+            <marker date="1459433485122" expanded="true" signature="35776:35934" placeholder="select * fro... material_detail" />
+            <marker date="1459433485122" expanded="true" signature="35980:36093" placeholder="select count... material_detail" />
+            <marker date="1459433485122" expanded="true" signature="37184:37235" placeholder="select * fro... workday" />
+            <marker date="1459433485122" expanded="true" signature="37318:37346" placeholder="select count... workday" />
+            <marker date="1459433485122" expanded="true" signature="43509:43786" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="43561:43701" placeholder="select vehic... control_list" />
+            <marker date="1459433485122" expanded="true" signature="43629:43700" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="43718:43774" placeholder="select car_i... car_realtime_status" />
+            <marker date="1459433485122" expanded="true" signature="45342:45696" placeholder="select *, ex... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="46636:47052" placeholder="select *, ex... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="47151:47417" placeholder="select count... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="48468:48794" placeholder="select *, ex... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="50008:50053" placeholder="update cars " />
+            <marker date="1459433485122" expanded="true" signature="52138:52204" placeholder="select * fro... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="52402:52519" placeholder="select count... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="52597:52785" placeholder="select name,... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="53145:53211" placeholder="select * fro... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="53343:53531" placeholder="select name,... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="54279:54315" placeholder="select disti... staff" />
+            <marker date="1459433485122" expanded="true" signature="55316:55496" placeholder="select name,... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="57529:57836" placeholder="select name,... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="59722:59791" placeholder="select id fr... staff" />
+            <marker date="1459433485122" expanded="true" signature="59760:59790" placeholder="select staff... staff_kpi" />
+            <marker date="1459433485122" expanded="true" signature="59808:59836" placeholder="insert into staff_kpi... " />
+            <marker date="1459433485122" expanded="true" signature="60073:60126" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="60165:60255" placeholder="select * fro... iccard_carid" />
+            <marker date="1459433485122" expanded="true" signature="60499:60609" placeholder="select * fro... iccard_carid" />
+            <marker date="1459433485122" expanded="true" signature="60869:61013" placeholder="select * fro... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="61344:61491" placeholder="select * fro... car_history_status" />
+            <marker date="1459433485122" expanded="true" signature="62069:62155" placeholder="select oil_u... oil_statistic" />
+            <marker date="1459433485122" expanded="true" signature="62329:62447" placeholder="insert into staff_kpi... " />
+            <marker date="1459433485122" expanded="true" signature="62701:62757" placeholder="select car_i... car_realtime_status" />
+            <marker date="1459433485122" expanded="true" signature="62874:62952" placeholder="insert into car_kpi_detail... " />
+            <marker date="1459433485122" expanded="true" signature="63148:63206" placeholder="select count... car_history_status" />
+            <marker date="1459433485122" expanded="true" signature="63284:63333" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="63418:63484" placeholder="update car_r... " />
+            <marker date="1459433485122" expanded="true" signature="63734:63790" placeholder="select car_i... car_realtime_status" />
+            <marker date="1459433485122" expanded="true" signature="63915:64013" placeholder="select staff... iccard_carid" />
+            <marker date="1459433485122" expanded="true" signature="64133:64215" placeholder="insert into staff_kpi_detail... " />
+            <marker date="1459433485122" expanded="true" signature="64399:64446" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="64514:64546" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="64712:64814" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="64856:64964" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="65129:65231" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="65273:65381" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="65595:65665" placeholder="insert into car_kpi... " />
+            <marker date="1459433485122" expanded="true" signature="65854:65903" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="65973:65993" placeholder="select id fr... staff" />
+            <marker date="1459433485122" expanded="true" signature="66095:66210" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="66348:66463" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="66677:66751" placeholder="insert into staff_kpi... " />
+            <marker date="1459433485122" expanded="true" signature="67059:67131" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="67104:67130" placeholder="select car_i... car_kpi" />
+            <marker date="1459433485122" expanded="true" signature="67148:67174" placeholder="insert into car_kpi... " />
+            <marker date="1459433485122" expanded="true" signature="67402:67453" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="67559:67661" placeholder="select * fro... car_history_status" />
+            <marker date="1459433485122" expanded="true" signature="67864:67990" placeholder="select * fro... car_history_status" />
+            <marker date="1459433485122" expanded="true" signature="68717:68803" placeholder="select oil_u... oil_statistic" />
+            <marker date="1459433485122" expanded="true" signature="69007:69097" placeholder="insert into car_kpi... " />
+            <marker date="1459433485122" expanded="true" signature="69603:69861" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="71894:72152" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="77904:78272" placeholder="select *,cou... " />
+            <marker date="1459433485122" expanded="true" signature="78378:78574" placeholder="select *,lef... " />
+            <marker date="1459433485122" expanded="true" signature="78642:78948" placeholder="select *,cou... etc_info" />
+            <marker date="1459433485122" expanded="true" signature="79054:79188" placeholder="select * fro... etc_info" />
+            <marker date="1459433485122" expanded="true" signature="80331:80646" placeholder="select heap_... etc_info" />
+            <marker date="1459433485122" expanded="true" signature="82048:82363" placeholder="select heap_... etc_info" />
+            <marker date="1459433485122" expanded="true" signature="84602:84734" placeholder="select * fro... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="84938:85096" placeholder="select count... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="85366:85404" placeholder="select disti... cartype" />
+            <marker date="1459433485122" expanded="true" signature="86147:86195" placeholder="select * fro... process_exploration" />
+            <marker date="1459433485122" expanded="true" signature="86244:86291" placeholder="select count... process_exploration" />
+            <marker date="1459433485122" expanded="true" signature="87041:87276" placeholder="update proce... " />
+            <marker date="1459433485122" expanded="true" signature="87507:87548" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="87771:87835" placeholder="select * fro... process_exploration" />
+            <marker date="1459433485122" expanded="true" signature="88192:88355" placeholder="insert into process_exploration... " />
+            <marker date="1459433485122" expanded="true" signature="88828:88873" placeholder="select * fro... process_property" />
+            <marker date="1459433485122" expanded="true" signature="88922:88966" placeholder="select count... process_property" />
+            <marker date="1459433485122" expanded="true" signature="89835:89905" placeholder="update proce... " />
+            <marker date="1459433485122" expanded="true" signature="90352:90502" placeholder="insert into process_property... " />
+            <marker date="1459433485122" expanded="true" signature="90971:91156" placeholder="update proce... " />
+            <marker date="1459433485122" expanded="true" signature="91267:91316" placeholder="select * fro... process_property" />
+            <marker date="1459433485122" expanded="true" signature="91539:91591" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="92076:92125" placeholder="select * fro... process_mine_control" />
+            <marker date="1459433485122" expanded="true" signature="92175:92223" placeholder="select count... process_mine_control" />
+            <marker date="1459433485122" expanded="true" signature="92928:93049" placeholder="insert into process_mine_control... " />
+            <marker date="1459433485122" expanded="true" signature="93250:93292" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="93659:93799" placeholder="update proce... " />
+            <marker date="1459433485122" expanded="true" signature="94286:94335" placeholder="select * fro... process_mine_explode" />
+            <marker date="1459433485122" expanded="true" signature="94385:94433" placeholder="select count... process_mine_explode" />
+            <marker date="1459433485122" expanded="true" signature="95228:95391" placeholder="insert into process_mine_explode... " />
+            <marker date="1459433485122" expanded="true" signature="95905:96127" placeholder="update proce... " />
+            <marker date="1459433485122" expanded="true" signature="96330:96374" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="96983:97124" placeholder="insert into workday... " />
+            <marker date="1459433485122" expanded="true" signature="97644:97861" placeholder="update workd... " />
+            <marker date="1459433485122" expanded="true" signature="98034:98068" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="98517:98559" placeholder="select * fro... material_info" />
+            <marker date="1459433485122" expanded="true" signature="98605:98646" placeholder="select count... material_info" />
+            <marker date="1459433485122" expanded="true" signature="99119:99182" placeholder="insert into material_info... " />
+            <marker date="1459433485122" expanded="true" signature="99457:99532" placeholder="update mater... " />
+            <marker date="1459433485122" expanded="true" signature="99736:99862" placeholder="select * fro... material_info" />
+            <marker date="1459433485122" expanded="true" signature="99910:99950" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="100454:100501" placeholder="select * fro... material_storeinfo" />
+            <marker date="1459433485122" expanded="true" signature="100547:100593" placeholder="select count... material_storeinfo" />
+            <marker date="1459433485122" expanded="true" signature="101071:101139" placeholder="insert into material_storeinfo... " />
+            <marker date="1459433485122" expanded="true" signature="101449:101517" placeholder="update mater... " />
+            <marker date="1459433485122" expanded="true" signature="101720:101765" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="101993:102028" placeholder="select name material_storeinfo" />
+            <marker date="1459433485122" expanded="true" signature="103339:103497" placeholder="select * fro... material_detail" />
+            <marker date="1459433485122" expanded="true" signature="103543:103656" placeholder="select count... material_detail" />
+            <marker date="1459433485122" expanded="true" signature="104164:104196" placeholder="select * fro... material_storeinfo" />
+            <marker date="1459433485122" expanded="true" signature="104481:104518" placeholder="select disti... staff" />
+            <marker date="1459433485122" expanded="true" signature="105743:105846" placeholder="select * fro... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="105890:105958" placeholder="select count... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="106027:106115" placeholder="select * fro... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="106160:106316" placeholder="select *,sum... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="106360:106481" placeholder="select count... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="106536:106677" placeholder="select *,sum... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="108053:108101" placeholder="select * fro... material_info" />
+            <marker date="1459433485122" expanded="true" signature="108496:108561" placeholder="select level... material_storeinfo" />
+            <marker date="1459433485122" expanded="true" signature="108619:108763" placeholder="select * fro... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="108798:108940" placeholder="insert into material_storage... " />
+            <marker date="1459433485122" expanded="true" signature="108969:109155" placeholder="update mater... " />
+            <marker date="1459433485122" expanded="true" signature="109454:109665" placeholder="insert into material_detail... " />
+            <marker date="1459433485122" expanded="true" signature="110035:110083" placeholder="select * fro... material_info" />
+            <marker date="1459433485122" expanded="true" signature="110783:110892" placeholder="select * fro... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="111066:111218" placeholder="select * fro... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="111298:111381" placeholder="update mater... " />
+            <marker date="1459433485122" expanded="true" signature="111404:111640" placeholder="insert into material_detail... " />
+            <marker date="1459433485122" expanded="true" signature="111755:111910" placeholder="insert into material_storage... " />
+            <marker date="1459433485122" expanded="true" signature="111943:112141" placeholder="update mater... " />
+            <marker date="1459433485122" expanded="true" signature="112189:112229" placeholder="delete from " />
+            <marker date="1459433485122" expanded="true" signature="112415:112659" placeholder="insert into material_detail... " />
+            <marker date="1459433485122" expanded="true" signature="112777:112936" placeholder="insert into material_storage... " />
+            <marker date="1459433485122" expanded="true" signature="112969:113163" placeholder="update mater... " />
+            <marker date="1459433485122" expanded="true" signature="113339:113391" placeholder="select * fro... material_info" />
+            <marker date="1459433485122" expanded="true" signature="113864:114101" placeholder="select mater... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="114270:114393" placeholder="select sum(m... material_storage" />
+            <marker date="1459433485122" expanded="true" signature="114776:114825" placeholder="select * fro... alarm_rule" />
+            <marker date="1459433485122" expanded="true" signature="115633:115855" placeholder="select latit... etc_info" />
+            <marker date="1459433485122" expanded="true" signature="116053:116335" placeholder="select heap_... etc_realtime_status" />
+            <marker date="1459433485122" expanded="true" signature="117472:117532" placeholder="update staff... " />
+            <marker date="1459433485122" expanded="true" signature="120553:120642" placeholder="select * fro... work_salary" />
+            <marker date="1459433485122" expanded="true" signature="121003:121061" placeholder="select heap_... heap_info" />
+            <marker date="1459433485122" expanded="true" signature="121113:121403" placeholder="update orelo... " />
+            <marker date="1459433485122" expanded="true" signature="121702:121793" placeholder="update orelo... " />
+            <marker date="1459433485122" expanded="true" signature="122151:122313" placeholder="select disti... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="122551:122647" placeholder="select * fro... car_history_status" />
+            <marker date="1459433485122" expanded="true" signature="123436:123598" placeholder="select disti... exception_status" />
+            <marker date="1459433485122" expanded="true" signature="123836:123932" placeholder="select * fro... car_history_status" />
+            <marker date="1459433485122" expanded="true" signature="130436:130495" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="130980:131039" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="131353:131448" placeholder="select count... oreload" />
+            <marker date="1459433485122" expanded="true" signature="131687:131745" placeholder="select heap_... heap_info" />
+            <marker date="1459433485122" expanded="true" signature="131853:131871" placeholder="update orelo... " />
+            <marker date="1459433485122" expanded="true" signature="132076:132137" placeholder="select heap_... heap_info" />
+            <marker date="1459433485122" expanded="true" signature="133562:133654" placeholder="insert into edit_error_log... " />
+            <marker date="1459433485122" expanded="true" signature="134035:134095" placeholder="select op_co... edit_error_log" />
+            <marker date="1459433485122" expanded="true" signature="134984:135054" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="135085:135155" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="135186:135256" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="135927:135997" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="136028:136098" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="136129:136199" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="136868:136938" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="136969:137039" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="137070:137140" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="137810:137880" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="137911:137981" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="138012:138082" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="138751:138821" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="138852:138922" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="138953:139023" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="139692:139762" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="139793:139863" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="139894:139964" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="140668:140920" placeholder="select count... agenda_event" />
+            <marker date="1459433485122" expanded="true" signature="140961:141233" placeholder="select count... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="141290:141433" placeholder="select count... repair_info" />
+            <marker date="1459433485122" expanded="true" signature="142907:142986" placeholder="select apply... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="143181:143241" placeholder="select apply... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="143362:143463" placeholder="select count... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="143646:143781" placeholder="select name,... staff" />
+            <marker date="1459433485122" expanded="true" signature="143866:143913" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="144003:144025" placeholder="select name staff" />
+            <marker date="1459433485122" expanded="true" signature="144121:144176" placeholder="select work_... machine_work" />
+            <marker date="1459433485122" expanded="true" signature="144271:144326" placeholder="select work_... machine_work" />
+            <marker date="1459433485122" expanded="true" signature="144846:144894" placeholder="select id fr... cars" />
+            <marker date="1459433485122" expanded="true" signature="144963:145009" placeholder="select work_... machine_status" />
+            <marker date="1459433485122" expanded="true" signature="145585:145658" placeholder="select id fr... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="146477:146682" placeholder="insert into machine_use_apply... " />
+            <marker date="1459433485122" expanded="true" signature="146985:147034" placeholder="select * fro... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="147157:147250" placeholder="select * fro... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="148048:148109" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="148302:148461" placeholder="select waji_... oreload" />
+            <marker date="1459433485122" expanded="true" signature="148558:148613" placeholder="select excav... control_list" />
+            <marker date="1459433485122" expanded="true" signature="148747:148796" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="148905:149070" placeholder="select waji_... oreload" />
+            <marker date="1459433485122" expanded="true" signature="149182:149220" placeholder="select name,... staff" />
+            <marker date="1459433485122" expanded="true" signature="149271:149360" placeholder="select work_... oreload" />
+            <marker date="1459433485122" expanded="true" signature="149764:149830" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="150084:150180" placeholder="select id fr... machine_use_apply" />
+            <marker date="1459433485122" expanded="true" signature="150240:150339" placeholder="select car_i... agenda_event" />
+            <marker date="1459433485122" expanded="true" signature="150441:150493" placeholder="update cars " />
+            <marker date="1459433485122" expanded="true" signature="150521:150573" placeholder="update cars " />
+            <marker date="1459433485122" expanded="true" signature="150655:150745" placeholder="select * fro... agenda_event" />
+            <marker date="1459433485122" expanded="true" signature="151056:151207" placeholder="insert into exception_status... " />
+            <marker date="1459433485122" expanded="true" signature="151601:151653" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="151720:151778" placeholder="select work_... control_list" />
+            <marker date="1459433485122" expanded="true" signature="151883:152035" placeholder="update contr... " />
+            <marker date="1459433485122" expanded="true" signature="152191:152246" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="152896:152983" placeholder="select vehic... control_list" />
+            <marker date="1459433485122" expanded="true" signature="153012:153157" placeholder="select excav... oreload" />
+            <marker date="1459433485122" expanded="true" signature="153187:153230" placeholder="select statu... car_status" />
+            <marker date="1459433485122" expanded="true" signature="154090:154215" placeholder="select heap_... oreload" />
+            <marker date="1459433485122" expanded="true" signature="154249:154292" placeholder="select statu... car_status" />
+            <marker date="1459433485122" expanded="true" signature="154506:154608" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="154648:154783" placeholder="select loadt... oreload" />
+            <marker date="1459433485122" expanded="true" signature="155968:156008" placeholder="select plate... cars" />
+            <marker date="1459433485122" expanded="true" signature="158403:158433" placeholder="select id, p... users" />
+            <marker date="1459433485122" expanded="true" signature="158567:158627" placeholder="update users... " />
+            <marker date="1459433485122" expanded="true" signature="158999:159038" placeholder="select count... " />
+            <marker date="1459433485122" expanded="true" signature="159277:159328" placeholder="select * fro... heap_info" />
+            <marker date="1459433485122" expanded="true" signature="159853:159891" placeholder="select * fro... heap_info" />
+            <marker date="1459433485122" expanded="true" signature="160154:160254" placeholder="update heap_... " />
+            <marker date="1459433485122" expanded="true" signature="160580:160834" placeholder="select count... cars" />
+            <marker date="1459433485122" expanded="true" signature="161220:161261" placeholder="select car_i... cars" />
+            <marker date="1459433485122" expanded="true" signature="161365:161466" placeholder="select sum(w... car_kpi_detail" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>

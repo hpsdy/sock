@@ -1,6 +1,6 @@
 <?php
 use Workerman\Worker;
-require_once '/your/path/Workerman/Autoloader.php';
+require_once './Workerman-master/Autoloader.php';
 
 $global_uid = 0;
 
